@@ -13,7 +13,7 @@ yarn-error.log
 # Builds do Angular
 dist/
 
-# Arquivos de configuração do Terraform
+# Arquivos de configuração do Terraform que poem ser pesados
 terraform-provider-aws*
 .terraform/
 .terraform.lock.hcl
